@@ -1,0 +1,8 @@
+/**index.wxss**/
+#webglCanvas{
+  width: 750rpx;
+  /* height: 1700rpx; */
+  /* position: absolute;
+  top: 0;
+  z-index: 0; */
+}

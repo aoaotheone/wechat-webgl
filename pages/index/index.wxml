@@ -1,0 +1,2 @@
+<!--index.wxml-->
+<canvas style="height:{{height}}px;" id="webglCanvas" type="webgl"></canvas>
